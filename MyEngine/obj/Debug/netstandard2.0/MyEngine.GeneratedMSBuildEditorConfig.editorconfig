@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = MyEngine
+build_property.ProjectDir = C:\Users\sh605\source\repos\MyEngine\MyEngine\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

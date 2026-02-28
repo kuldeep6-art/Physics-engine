@@ -1,0 +1,10 @@
+C:\Users\sh605\source\repos\MyEngine\MyEngine\bin\Debug\netstandard2.0\MyEngine.deps.json
+C:\Users\sh605\source\repos\MyEngine\MyEngine\bin\Debug\netstandard2.0\MyEngine.dll
+C:\Users\sh605\source\repos\MyEngine\MyEngine\bin\Debug\netstandard2.0\MyEngine.pdb
+C:\Users\sh605\source\repos\MyEngine\MyEngine\obj\Debug\netstandard2.0\MyEngine.csproj.AssemblyReference.cache
+C:\Users\sh605\source\repos\MyEngine\MyEngine\obj\Debug\netstandard2.0\MyEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sh605\source\repos\MyEngine\MyEngine\obj\Debug\netstandard2.0\MyEngine.AssemblyInfoInputs.cache
+C:\Users\sh605\source\repos\MyEngine\MyEngine\obj\Debug\netstandard2.0\MyEngine.AssemblyInfo.cs
+C:\Users\sh605\source\repos\MyEngine\MyEngine\obj\Debug\netstandard2.0\MyEngine.csproj.CoreCompileInputs.cache
+C:\Users\sh605\source\repos\MyEngine\MyEngine\obj\Debug\netstandard2.0\MyEngine.dll
+C:\Users\sh605\source\repos\MyEngine\MyEngine\obj\Debug\netstandard2.0\MyEngine.pdb
